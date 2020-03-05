@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="txt_button">Converter Temperatura</string>
+    <string name="temperature_question">Digite aqui a Temperatura em Cº:</string>
+    <string name="temperatura">Temperatura</string>
+</resources>

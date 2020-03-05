@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperatures_array">
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+        <item>Reaumur</item>
+        <item>Rankine</item>
+    </string-array>
+</resources>

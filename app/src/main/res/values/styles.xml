@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/holo_purple</item>
+        <item name="colorPrimaryDark">@android:color/holo_blue_dark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Widget.Temperature.Button" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">16dp</item>
+    </style>
+
+    <style name="ShapeAppearance.Temperature.Button" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+
+    <style name="Widget.Temperature.DropDownItemStyle" parent="Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:colorBackground">@android:color/holo_purple</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>
