@@ -1,7 +1,6 @@
 package com.danieloliveira.temperature
 
 import androidx.lifecycle.ViewModel
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivityViewModel : ViewModel() {
 
